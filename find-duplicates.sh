@@ -1,2 +1,2 @@
-# display duplicate entries in column 2 of a CSV file
-grep -v Species $1 | cut -d , -f 2 | sort | uniq -c | grep -v 1
+# find duplicate entries in a given column of a CSV file, and display
+grep -v Species $1 | cut -d , -f $2 | sort | uniq -c | grep -v 1
