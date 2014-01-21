@@ -1,0 +1,10 @@
+Date,Species,Count
+2012-01-05,round goby,14
+2012-01-05,sturgeon,3
+2012-01-05,pike,4
+2012-01-06,bass,2
+2012-01-06,sturgeon,2
+2012-01-06,pike,1
+2012-01-07,sunfish,1
+2012-01-07,squid,4
+2012-01-08,cod,1
